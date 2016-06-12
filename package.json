@@ -1,0 +1,16 @@
+{
+  "title": "Simple Image Blocker",
+  "name": "simpleimageblock",
+  "version": "0.0.1",
+  "description": "To block/unblock images",
+  "main": "index.js",
+  "author": "Arthur Peake",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
